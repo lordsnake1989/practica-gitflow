@@ -1,0 +1,2 @@
+Este archivo forma parte de la práctica de GitFlow.
+Estoy aprendiendo a trabajar con ramas y commits.
