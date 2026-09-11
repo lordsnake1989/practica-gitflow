@@ -1,1 +1,1 @@
-# practica-gitflow
+Actualiza README con descripción del proyecto
